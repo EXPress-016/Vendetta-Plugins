@@ -1,0 +1,7 @@
+{
+  "name": "RichPresence",
+  "description": "Allows you to set your Discord Rich Presence based on your custom settings or WebSocket.",
+  "vendetta": {
+    "icon": "ic_rich_presence_dark_12px"
+  }
+}

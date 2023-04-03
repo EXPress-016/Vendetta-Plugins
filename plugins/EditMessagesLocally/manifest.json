@@ -1,0 +1,8 @@
+{
+  "name": "EditMessagesLocally",
+  "description": "Allows you to edit other peoples messages locally.",
+  "main": "src/index.tsx",
+  "vendetta": {
+    "icon": "ic_message_edit"
+  }
+}
